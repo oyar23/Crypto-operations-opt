@@ -22,6 +22,7 @@
 ## 📋 Descripción
 
 **CryptoOps Analyzer** es un proyecto de análisis de datos y optimización de operaciones diseñado para identificar y resolver cuellos de botella en plataformas de intercambio de criptomonedas. Utilizando datos simulados realistas, el proyecto demuestra cómo el análisis sistemático y las automatizaciones inteligentes pueden mejorar significativamente la eficiencia operativa.
+**DEPLOY DE DASHBOARD FINAL:** https://crypto-ops-dashboard.vercel.app/
 
 ### 🎯 Objetivo
 
