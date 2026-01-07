@@ -1,0 +1,5 @@
+nombre,transacciones_afectadas,tiempo_desperdiciado_horas,impacto_estimado
+Validaciones Manuales,15575.0,322.87840277777786,30
+Hora Pico (18-23h),70032.0,1251.0438666666666,25
+Transacciones >5min,13.0,0.7648518361111111,20
+Método de Pago: transferencia,49788.0,1.9361999999998114,15

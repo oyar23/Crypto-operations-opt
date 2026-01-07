@@ -180,8 +180,8 @@ def generar_reporte_final(cuellos_botella):
     print(f"   • Mejora estimada en tasa de error: 40-50%")
     
     # Guardar reporte
-    df_reporte.to_csv('../data/processed/reporte_cuellos_botella.csv', index=False)
-    print(f"\n Reporte guardado: ../data/processed/reporte_cuellos_botella.csv")
+    df_reporte.to_csv('data/processed/reporte_cuellos_botella.csv', index=False)
+    print(f"\n Reporte guardado: data/processed/reporte_cuellos_botella.csv")
     
     return df_reporte
 
