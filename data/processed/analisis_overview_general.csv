@@ -1,0 +1,2 @@
+total_transacciones,usuarios_activos,transacciones_exitosas,transacciones_fallidas,tasa_error_pct,volumen_total_usd,ticket_promedio_usd,tiempo_promedio_seg
+100000,9513,86962,13038,13.04,259610202.98,2985.33,94.86

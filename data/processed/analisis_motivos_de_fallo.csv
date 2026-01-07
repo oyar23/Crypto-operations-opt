@@ -1,0 +1,7 @@
+motivo_fallo,num_fallos,porcentaje
+Timeout de la red blockchain,2228,17.09
+Error en validación antifraude,2200,16.87
+Fondos insuficientes,2190,16.8
+Límite diario excedido,2180,16.72
+Validación de identidad fallida,2142,16.43
+Método de pago rechazado,2098,16.09

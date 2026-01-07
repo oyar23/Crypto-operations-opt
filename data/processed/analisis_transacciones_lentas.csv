@@ -1,0 +1,14 @@
+transaction_id,user_id,tipo_operacion,cripto,monto_usd,tiempo_procesamiento,timestamp_inicio,estado,requiere_validacion_manual
+58011,5964,venta,BTC,11785.36,319,2024-10-22 22:46:02,exitosa,True
+80684,8554,swap,BTC,7439.8,313,2024-09-17 21:59:24,fallida,True
+46494,464,compra,ETH,16119.21,312,2024-12-08 18:19:25,exitosa,True
+77434,8517,venta,BTC,5906.34,311,2024-10-21 19:01:51,exitosa,True
+15336,7138,swap,USDT,9081.48,310,2024-09-01 22:58:46,exitosa,True
+58826,2704,compra,ETH,7141.56,310,2024-09-10 19:14:05,fallida,True
+14224,1142,venta,USDT,8769.6,309,2024-12-09 18:41:01,fallida,True
+28168,1491,swap,BTC,16964.28,309,2024-09-01 21:27:43,exitosa,True
+37340,5957,swap,ETH,15911.95,307,2024-10-10 19:19:17,exitosa,True
+24478,5698,venta,BTC,10098.13,306,2024-08-30 23:15:16,exitosa,True
+68353,3888,compra,USDT,16122.83,305,2024-11-03 23:00:03,exitosa,True
+41799,2307,swap,BTC,7112.36,303,2024-11-19 19:18:07,exitosa,True
+96318,9497,venta,BTC,16495.99,301,2024-12-26 22:32:10,exitosa,True
