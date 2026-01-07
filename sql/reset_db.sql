@@ -1,3 +1,9 @@
+-- ============================================
+-- query para limpiar la bd para solucionar errores
+
+-- ============================================
+
+
 DROP SCHEMA public CASCADE;
 CREATE SCHEMA public;
 
